@@ -19,11 +19,11 @@ Step 13:Generate the graph using networkx<br/>
 Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
-'''
+```
 Developed by : Siva Chandran R
 REG NO : 212222240099
-'''
-'''
+```
+```
 ! pip install pybbn
 
 
@@ -113,7 +113,7 @@ ax = plt.gca()
 ax.margins(0.10)
 plt.axis("off")
 plt.show()
-'''
+```
 
 ## Output:
 ![269258518-93d86f61-83e9-4905-a328-e421ac859eb8](https://github.com/SivaChandranR07/Bayesian-Network/assets/113497395/4ca53f27-2c7d-446b-8ff7-a3b6e025bb81)
